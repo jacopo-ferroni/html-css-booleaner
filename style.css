@@ -76,4 +76,41 @@ h4 {
 
 .unorder {
     padding-left: 15px;
+    margin-bottom: 0px;
+}
+
+.table {
+    background-color: white;
+}
+
+table {
+    padding-top: 10px;
+}
+
+.table-title-color1 {
+    background-color: #3da9fc;
+    color: white;
+}
+
+.table-title-color2 {
+    background-color: #8bd3dd;
+    border: 0px;
+}
+
+.table-title-color3 {
+    background-color: white;
+    border: 0px;
+}
+
+table, th {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.highlighted {
+    background-color: yellow;
 }
