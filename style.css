@@ -4,8 +4,8 @@ body{
 
 #external-container {
     width: 1000px;
-    height: 2000px;
-    background-color: black;
+    height: 1750px;
+    background-color: white;
 }
 
 #top {
@@ -76,7 +76,6 @@ h4 {
 
 .unorder {
     padding-left: 15px;
-    margin-bottom: 0px;
 }
 
 .table {
@@ -114,3 +113,29 @@ td {
 .highlighted {
     background-color: yellow;
 }
+
+footer {
+    background-color: white;
+}
+
+h3 {
+    color: #979a9c;
+    background-color: white;
+}
+
+.footer-images1 {
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    height: 210px;
+    background-image: url(./img/monitor.jpg);
+}
+
+.footer-images2 {
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    height: 210px;
+    background-image: url(./img/graph.jpg);
+}
+
