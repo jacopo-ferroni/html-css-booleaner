@@ -35,7 +35,6 @@ body{
 
 #third {
     padding: 1px;
-
 }
 
 h4 {
@@ -53,11 +52,28 @@ h4 {
     font-size: 15px;
     font-family: 'Lora', serif;
     color: #979a9c;
-    padding-top: 0pxß;
+    padding-top: 0px;
 }
 
 .autor-class {
     font-size: 20px;
     font-family: 'Lora', serif;
     color: #3da9fc;
+}
+
+#fourth {
+    background-color: white;
+}
+
+.image {
+    height: 350px;
+}
+
+.written-bottom-photo {
+    margin: 0px;
+    font-size: 12px;
+}
+
+.unorder {
+    padding-left: 15px;
 }
