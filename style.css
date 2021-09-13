@@ -1,0 +1,23 @@
+body{
+    padding: 0%;
+}
+
+#external-container {
+    width: 1000px;
+    height: 2000px;
+    background-color: black;
+}
+
+#sopra {
+    width: 1000px;
+    height: 100px;;
+    background-color: #3da9fc;
+    background-image: url(./img/pattern.png);
+    background-size: 400px;
+}
+
+.logo {
+    width: 180px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
