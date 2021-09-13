@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 
-#sopra {
+#top {
     width: 1000px;
     height: 100px;;
     background-color: #3da9fc;
@@ -20,4 +20,44 @@ body{
     width: 180px;
     padding-top: 50px;
     padding-left: 10px;
+}
+
+#first {
+    background-color: white;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+}
+
+#second {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#third {
+    padding: 1px;
+
+}
+
+h4 {
+    margin: 0px;
+}
+
+.grey1 {
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    color: #979a9c;
+    padding-top: 0px;
+}
+
+.grey2 {
+    font-size: 15px;
+    font-family: 'Lora', serif;
+    color: #979a9c;
+    padding-top: 0pxß;
+}
+
+.autor-class {
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    color: #3da9fc;
 }
