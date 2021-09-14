@@ -140,3 +140,6 @@ h3 {
     background-image: url(./img/graph.jpg);
 }
 
+.half-width {
+    width: 50%;
+}
